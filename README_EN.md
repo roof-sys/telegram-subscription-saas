@@ -11,7 +11,7 @@ A comprehensive bot system with REST API that automates subscription sales, paym
 
 > ⚠️ **Important:** This is a portfolio version of the project. Real tokens, channel IDs, payment keys, and some business-specific features have been replaced with examples for security purposes. The full production version with configurations is available upon request for employers.
 
-[**Русская версия**](README_RU) | **English version**
+[**Русская версия**](README) | **English version**
 
 ---
 
